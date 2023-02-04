@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "version": "0.1",
+  "name": "ScratchHighlighter",
+  "description": "Scratchの入力欄に色をつけて、数字と文字を判別しやすくします。",
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://scratch.mit.edu/projects/*/editor/"
+      ],
+      "js": [
+        "main.js"
+      ]
+    }
+  ]
+}
