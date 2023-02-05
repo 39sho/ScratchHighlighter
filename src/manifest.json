@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "0.1",
+  "version": "0.2",
   "name": "ScratchHighlighter",
   "description": "Scratchの入力欄に色をつけて、数字と文字を判別しやすくします。",
   "icons": {
