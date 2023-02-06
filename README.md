@@ -1,10 +1,21 @@
 # ScratchHighlighter
-color the input fields in Scratch
+This repository is a browser extension that colors Scratch input fields to help identify numbers and strings.
+We have confirmed that it works with Chrome.
 
-このChrome拡張は、Scratchの入力欄に色をつけて、数字と文字を判別しやすくします。
+このレポジトリは、Scratchの入力欄に色をつけることで、数字と文字を判別しやすくするブラウザー拡張機能です。
+Chromeで動作を確認しています。
 
+# DEMO
 ![デモ画像](demo.png)
 
-[midorigoke/ScratchHighlightFullwidthNumber][def] にインスパイアされて作られました。
+# Installation
+[ストア][store] でChromeに追加
 
-[def]: https://github.com/midorigoke/ScratchHighlightFullwidthNumber
+# author
+39sho [Twitter][twitter]
+
+[midorigoke/ScratchHighlightFullwidthNumber][respectfulRepo] にインスパイアされて作られました。
+
+[respectfulRepo]: https://github.com/midorigoke/ScratchHighlightFullwidthNumber
+[store]: https://chrome.google.com/webstore/detail/scratchhighlighter/aajekoagmdennpephghkoknbooceobid
+[twitter]: https://twitter.com/G_39sho
